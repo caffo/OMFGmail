@@ -18,6 +18,14 @@ margin: 0;
 
 
 
+/* Better search bar */
+.gbqfwa {
+  width: 80% !important;
+  margin-left: 50px;
+  margin-top: 5px;
+}
+
+
 /* Minimize Top Nav */
 
 #gbx3, #gbz {
@@ -48,7 +56,32 @@ margin: 0;
   padding-top: 8px !important;
 }
 
+/* google plus notifications */
+.gb_Ba{
+	display:none;
+}
 
+/* google plus post */
+.gb_Ca{
+ 	display:none
+}
+  
+ /* google plus link */ 
+.gb_i {
+    display: none !important;
+}
+  
+  /* hide boomerang */
+  
+#b4g_manage{
+  	display: none !important;
+  }
+
+  
+  /* fix search icon */
+  #gbqfab {
+  	border-right: 1px solid #ccc;
+  }
 
 /* Clean up Left Nav */
 
@@ -207,4 +240,10 @@ td.y3,
 
 .hx .hb {
   color: #ccc !important;
+}
+
+
+/* Hide labels for pleasure */
+.CJ, .ait {
+display:none;
 }
